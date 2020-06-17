@@ -7,17 +7,19 @@
 
 # Project Overview
 
-Our idea is to write a python script which would visualize various Algorithms and Data  Structures, like tree formation, reversing a linked list, finding a single source shortest path, and many more using animation.
+Our idea is to write a python script that would visualize various Algorithms and Data  Structures, like tree formation, reversing a linked list, finding a single source shortest path, and many more using animation.
 
-The key  idea here is to convert what we learn in theory to an animated visualization.
+The key idea here is to convert what we learn in theory to an animated visualization.
 
 # Team Details
 
 ## Moderator:
+1. Gaurav Saha (gauravsaha385@gmail.com)
 ## Mentors:
 1. Arpita Saggar (arpita.saggar@gmail.com)
 2. Debdut Goswami (debdutgoswami@gmail.com)
 3. Gagan Deep (gaganwrk0@gmail.com)
+4. Abhishek Singh (abhisinghdeveloper@outlook.com)
 ## Participants:
 1. Meenal Verma (vmeenalv@gmail.com)    
 2. Aastha (astha.satija9@gmail.com)
@@ -25,6 +27,10 @@ The key  idea here is to convert what we learn in theory to an animated visualiz
 4. Franklin Onyia (onyiafranklin89@gmail.com)
 5. Abhijeet Pathak (abhijeetpathak9826@gmail.com)
 6. Dhiren Sambyal (dhirensambyal@gmail.com)
+7. Harshit Gupta (guptaarg.18@gmail.com)
+8. Priyanshi Agrawal(priyanshi3008.pa@gmail.com)
+9. Archita Bhatnagar (archita.bhatnagar07@gmail.com)
+10. Akshra Kumari (akshrakumari42@gmail.com )
 
 # Learning Plan and Milestones
 
