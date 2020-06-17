@@ -31,6 +31,9 @@ The key idea here is to convert what we learn in theory to an animated visualiza
 8. Priyanshi Agrawal(priyanshi3008.pa@gmail.com)
 9. Archita Bhatnagar (archita.bhatnagar07@gmail.com)
 10. Akshra Kumari (akshrakumari42@gmail.com )
+11. Devi Keerthi Reddy Mitta (keerthimitta2506@gmail.com)
+12. Amit Sharma (sharma.amit20111@gmail.com)
+13. Devanshi Arora (devanshiarora40@gmail.com)
 
 # Learning Plan and Milestones
 
