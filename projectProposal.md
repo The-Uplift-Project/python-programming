@@ -15,7 +15,7 @@ The key idea here is to convert what we learn in theory to an animated visualiza
 
 ## Moderator:
 1. Gaurav Saha (gauravsaha385@gmail.com)
-2. ARYAN GULATI (aryangulati2810@gmail.com)
+2. Aryan Gulati (aryangulati2810@gmail.com)
 ## Mentors:
 1. Arpita Saggar (arpita.saggar@gmail.com)
 2. Debdut Goswami (debdutgoswami@gmail.com)
