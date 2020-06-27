@@ -45,7 +45,7 @@ This project covers the concept of Cryptographic algorithms that helps us to con
 ## Moderators:
 
 1. Shivam Verma (vermashivam0606@gmail.com)
-2. Parth
+2. Parth (parthkrishna1611@gmail.com)
 
 ## Participants:
 
