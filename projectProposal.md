@@ -35,7 +35,7 @@ This project covers the concept of Cryptographic algorithms that helps us to con
 
 ## Mentors:
 
-1. Saurabh Chauhan (saurabh10102@gmail.com)
+1. Saurabh Chauhan (infinityincorporative51@gmail.com)
 2. Shreya Kumari Pandey (shreyapandey6898@gmail.com)
 3. Yukti (yuktikhosla@gmail.com)
 4. Saikat Pandit
