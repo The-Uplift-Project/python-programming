@@ -41,6 +41,7 @@ This project covers the concept of Cryptographic algorithms that helps us to con
 4. Saikat Pandit (saikat.pandit@gmail.com)
 5. Sri Manikanta (srimanikantapalakollu@gmail.com)
 6. Smaranjit Ghose (smaranjitghose@protonmail.com)
+7. Kiran (kirangarg700@gmail.com)
 
 ## Moderators:
 
