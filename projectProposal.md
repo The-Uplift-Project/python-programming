@@ -42,6 +42,7 @@ This project covers the concept of Cryptographic algorithms that helps us to con
 5. Sri Manikanta (srimanikantapalakollu@gmail.com)
 6. Smaranjit Ghose (smaranjitghose@protonmail.com)
 7. Kiran (kirangarg700@gmail.com)
+8. Yasin Shah (shahyaseen71@gmail.com)
 
 ## Moderators:
 
@@ -67,6 +68,7 @@ This project covers the concept of Cryptographic algorithms that helps us to con
 15. Sagar Patel (patelg3569@gmail.com)
 16. Swapnanil Dutta (swapnanildutta2000@gmail.com)
 17. Vanshika (vanshikabhasin9@gmail.com)
+18. Sejal gupta (sejalchandak00@gmail.com)
 
 # Learning Plan and Milestones
 
