@@ -80,7 +80,7 @@ This project covers the concept of Cryptographic algorithms that helps us to con
 | July 5 - July 15  |        Learning of Tkinter package based on the preference. |
 | July 16 - July 24 |                                        Working with Tkinter |
 | July 25 - Aug 6   |                                          Setting up the GUI |
-| July 7 - Aug 12   |                          Learning Cryptographic algotithoms |
+| July 7 - Aug 12   |                          Learning Cryptographic algorithms  |
 | Aug 13 - 18       |              Implementing Cryptographic algo to our project |
 | Aug 19- 24        |                                     Testing the Application |
 | Aug 25 - 31       |                           Final testing and Project reviews |
