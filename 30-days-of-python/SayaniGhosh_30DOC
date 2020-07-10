@@ -69,3 +69,85 @@ Print Function :
   for i in range(1,n+1):
       st=st+str(i)
   print(st)
+
+
+
+
+
+
+
+
+#Day 2
+
+
+Write a Function :
+    def is_leap(year):
+        leap = False
+
+        # Write your logic here
+        if(year%4==0):
+            leap=True
+            if(year%100==0):
+                leap=False
+                if(year%400==0):
+                    leap=True    
+        return leap
+
+    year = int(input())
+    print(is_leap(year))
+
+
+List Comprehensions :
+    if __name__ == '__main__':
+        x = int(input())
+        y = int(input())
+        z = int(input())
+        n = int(input())
+    lists=[]
+    for i in range(0,x+1):
+        for j in range(0,y+1):
+            for k in range(0,z+1):
+                if(i+j+k!=n):
+                    li=[i,j,k]
+                    lists.append(li)
+    print(lists)
+    
+    
+Finding the Runner-Up score :
+    if __name__ == '__main__':
+        n = int(input())
+        arr = []
+        arr=input().split()
+
+        for i in range(0,n):
+            arr[i]=int(arr[i])    
+        arr=sorted(arr)
+        for i in range(0,n):
+            if(arr[i]==max(arr)):
+                c=i
+                break
+        print(arr[c-1])
+        
+    
+Nested Lists :
+    if __name__ == '__main__':
+        n=int(input())
+        lists=[]
+        lis=[]
+        for i in range(0,n):
+            name = input()
+            score = float(input())
+            li=[name,score]
+            lists.append(li)    
+        lis=lists
+        lis=sorted(lis, key = lambda x: x[1])
+        for i in range(0,n):
+            if(lis[i][1]>lis[0][1]):
+                c=lis[i][1]
+                break
+        lists=sorted(lists)
+        for i in range(0,n):
+            if(lists[i][1]==c):
+                print(lists[i][0])
+                
+                
