@@ -151,3 +151,120 @@ Nested Lists :
                 print(lists[i][0])
                 
                 
+
+
+
+
+
+
+#Day 3
+
+
+Finding The Percentage :
+    if __name__ == '__main__':
+        n = int(raw_input())
+        student_marks = {}
+        for _ in range(n):
+            line = raw_input().split()
+            name, scores = line[0], line[1:]
+            scores = map(float, scores)
+            student_marks[name] = scores
+        query_name = raw_input()
+
+
+Lists :
+    if __name__ == '__main__':
+        N = int(raw_input())
+    l=[]
+    def op(st):
+        if(st[0]=="insert"):
+            l.insert(int(st[1]),int(st[2]))
+        if(st[0]=="append"):
+            l.append(int(st[1]))
+        if(st[0]=="remove"):
+            l.remove(int(st[1]))
+        if(st[0]=="sort"):
+            l.sort()
+        if(st[0]=="pop"):
+            l.pop()
+        if(st[0]=="reverse"):
+            l.reverse()
+        if(st[0]=="print"):
+            print(l)
+
+    s=[]
+    for i in range(0,N):
+        s=raw_input().split()
+        op(s)
+
+
+Tuples :
+    if __name__ == '__main__':
+        n = int(raw_input())
+        t= tuple(map(int, raw_input().split()))
+        print(hash(t))
+
+
+sWAP cASE :
+    def swap_case(s):
+        r=""
+        for i in s:
+            if(i.islower()==1):
+                r=r+i.upper()
+            elif(i.isupper()==1):
+                r=r+i.lower()
+            else:
+                r=r+i
+        return r
+
+
+    if __name__ == '__main__':
+        s = input()
+        result = swap_case(s)
+        print(result)
+
+
+String Split and Join :
+    def split_and_join(line):
+        # write your code here
+        st=""
+        for i in line:
+            if(i==" "):
+                st=st+"-"
+            else:
+                st=st+i
+        return st
+
+    if __name__ == '__main__':
+        line = input()
+        result = split_and_join(line)
+        print(result)
+
+
+What's Your Name? :
+    def print_full_name(a, b):
+        print("Hello "+a+" "+b+"! You just delved into python.")
+
+    if __name__ == '__main__':
+        first_name = input()
+        last_name = input()
+        print_full_name(first_name, last_name)
+        
+        
+Finding a string :
+    def count_substring(string, sub_string):
+        c=0
+        for i in range(0,len(string)-len(sub_string)+1):
+            s=""
+            for j in range(i,i+len(sub_string)):
+                s=s+string[j]
+            if(s==sub_string):
+                c+=1
+        return c
+
+    if __name__ == '__main__':
+        string = input().strip()
+        sub_string = input().strip()
+
+        count = count_substring(string, sub_string)
+        print(count)
