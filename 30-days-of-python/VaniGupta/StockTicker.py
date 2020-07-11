@@ -14,5 +14,7 @@ def cheapest_stock(line):
         d[line[i]] = line[i+1]
     d_rev = {v: k for (k,v) in d.items()}
     print("Cheapest priced stock: ", d_rev[min(d.values())])
+
+print("Enter Tax percentage: ")
 inp = raw_input()
 cheapest_stock(inp)
