@@ -13,10 +13,13 @@ def solve(meal_cost, tip_percent, tax_percent):
     print(round(meal_cost + tip + tax))
 
 if __name__ == '__main__':
+    print("Enter cost of meal: ")
     meal_cost = float(input())
 
+    print("Enter tip percentage: ")
     tip_percent = int(input())
 
+    print("Enter tax_percentage: ")
     tax_percent = int(input())
 
     solve(meal_cost, tip_percent, tax_percent)
