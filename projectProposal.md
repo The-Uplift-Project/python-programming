@@ -69,6 +69,7 @@ This project covers the concept of Cryptographic algorithms that helps us to con
 16. Swapnanil Dutta (swapnanildutta2000@gmail.com)
 17. Vanshika (vanshikabhasin9@gmail.com)
 18. Sejal gupta (sejalchandak00@gmail.com)
+19. Vineet Malik (malik.vin789@gmail.com) 
 
 # Learning Plan and Milestones
 
