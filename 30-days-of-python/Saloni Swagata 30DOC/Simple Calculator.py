@@ -38,9 +38,12 @@ def button_equal():
 	if math == "multiplication":
 		e.insert(0, f_num * int(second_number))
 
-	if math == "division":
+	if math == "division" and second_number != "0":
 		e.insert(0, f_num / int(second_number))
 
+	elif second_number == "0":
+		e.insert(0, "Zero Division Error")
+	
 	
 
 def button_subtract():
