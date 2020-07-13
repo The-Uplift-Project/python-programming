@@ -4,7 +4,7 @@ print("Enter key: ")
 key = int(input())
 enc_text = ""
 
-# encryption process
+# decryption process
 for index in range(len(text)):
 
 	# checking if element is an alphabet
