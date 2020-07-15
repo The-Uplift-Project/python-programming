@@ -9,3 +9,7 @@ Just a simple "Hello World" program to display an input string. This was just a 
 ```
 A simple program to accept and display a sum of two numbers in integer and double types and also string concatenation with an input string. This was the first challenge and it was just to test out the functionality of the code.
 ```
+### [**Day 2 :**](/30-days-of-python/SwapnanilDutta_30DOC/D2-Operators.py) 
+```
+We had to write the function to solve the problem for given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal and we had to find and print the meal's total cost rounded to the nearest integer number.
+```
