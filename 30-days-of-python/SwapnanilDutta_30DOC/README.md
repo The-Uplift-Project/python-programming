@@ -13,3 +13,7 @@ A simple program to accept and display a sum of two numbers in integer and doubl
 ```
 We had to write the function to solve the problem for given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal and we had to find and print the meal's total cost rounded to the nearest integer number.
 ```
+### [**Day 3 :**](30-days-of-python/SwapnanilDutta_30DOC/D3-Intro-to-Conditional-Statements.py) 
+```
+We had to write the function to solve the problem for given condition that for a given number we have to give a specific output. This was just to practice the conditional statements.
+```
