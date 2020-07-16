@@ -1,0 +1,11 @@
+
+
+def split_and_join(line):
+    # write your code here
+    st = ""
+    for i in line:
+        if (i == " "):
+            st = st + "-"
+        else:
+            st = st + i
+    return st
