@@ -1,4 +1,4 @@
-# rail fence cipher
+# rail fence cipher - Only Ecryption
 # level hard
 
 print("Enter string to be encrypted: ", end = "")
