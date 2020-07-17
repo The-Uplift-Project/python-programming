@@ -13,11 +13,15 @@ A simple program to accept and display a sum of two numbers in integer and doubl
 ```
 We had to write the function to solve the problem for given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal and we had to find and print the meal's total cost rounded to the nearest integer number.
 ```
-### [**Day 3 :**](30-days-of-python/SwapnanilDutta_30DOC/D3-Intro-to-Conditional-Statements.py) 
+### [**Day 3 :**](/30-days-of-python/SwapnanilDutta_30DOC/D3-Intro-to-Conditional-Statements.py) 
 ```
 We had to write the function to solve the problem for given condition that for a given number we have to give a specific output. This was just to practice the conditional statements.
 ```
-### [**Day 4 :**](30-days-of-python/SwapnanilDutta_30DOC/D4-Class-vs-Instance.py) 
+### [**Day 4 :**](/30-days-of-python/SwapnanilDutta_30DOC/D4-Class-vs-Instance.py) 
 ```
 We had to differenciate between a class and an instance; because this is an Object Oriented concept. So, a class was initialised with age as a parameter and functions to increase the age of the instance and show appropriate message as output.
+```
+### [**Day 5 :**](/30-days-of-python/SwapnanilDutta_30DOC/D5-Loops.py) 
+```
+It is a simple problem where a number was accepted and the multiplication table till 10 is printed.
 ```
