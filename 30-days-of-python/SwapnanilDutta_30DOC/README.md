@@ -23,5 +23,5 @@ We had to differenciate between a class and an instance; because this is an Obje
 ```
 ### [**Day 5 :**](/30-days-of-python/SwapnanilDutta_30DOC/D5-Loops.py) 
 ```
-It is a simple problem where a number was accepted and the multiplication table till 10 is printed.
+It is a simple problem where a number is accepted and the multiplication table till 10 is printed.
 ```
