@@ -25,3 +25,7 @@ We had to differenciate between a class and an instance; because this is an Obje
 ```
 It is a simple problem where a number is accepted and the multiplication table till 10 is printed.
 ```
+### [**Day 6 :**](/30-days-of-python/SwapnanilDutta_30DOC/D6-Let's-Review.py) 
+```
+In this problem, number of words and words are taken as input and the even and odd positioned elements in the words are printed separately.
+```
