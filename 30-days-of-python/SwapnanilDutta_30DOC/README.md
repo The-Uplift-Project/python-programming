@@ -17,3 +17,7 @@ We had to write the function to solve the problem for given the meal price (base
 ```
 We had to write the function to solve the problem for given condition that for a given number we have to give a specific output. This was just to practice the conditional statements.
 ```
+### [**Day 4 :**](30-days-of-python/SwapnanilDutta_30DOC/D4-Class-vs-Instance.py) 
+```
+We had to differenciate between a class and an instance; because this is an Object Oriented concept. So, a class was initialised with age as a parameter and functions to increase the age of the instance and show appropriate message as output.
+```
