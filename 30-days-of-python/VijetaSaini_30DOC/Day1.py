@@ -1,4 +1,4 @@
-#Day2 Code
+#Day1 Code
 i = 4
 d = 4.0
 s = 'HackerRank '
