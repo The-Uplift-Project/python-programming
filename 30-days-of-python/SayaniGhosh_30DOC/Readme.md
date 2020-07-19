@@ -1,7 +1,3 @@
-﻿Welcome to StackEdit!
-===================
-
-
 Hey! I'm **Sayani Ghosh**. I have been adding solutions to *Hackerank* tutorial problems of Python and also the solutions of 30Days Of Code.
 Apart from that, I have been learning how to use *Tkinter, Pillow* in Python.
 
