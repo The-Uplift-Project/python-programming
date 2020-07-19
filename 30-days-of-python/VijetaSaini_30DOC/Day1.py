@@ -1,4 +1,5 @@
 #Day1 Code
+#Data_Types
 i = 4
 d = 4.0
 s = 'HackerRank '
