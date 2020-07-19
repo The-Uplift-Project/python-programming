@@ -29,3 +29,7 @@ It is a simple problem where a number is accepted and the multiplication table t
 ```
 In this problem, number of words and words are taken as input and the even and odd positioned elements in the words are printed separately.
 ```
+### [**Day 7 :**](/30-days-of-python/SwapnanilDutta_30DOC/D7-Arrays.py) 
+```
+This was a simple problem where an array is taken as input and printed out in the reverse order.
+```
