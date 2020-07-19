@@ -33,3 +33,7 @@ In this problem, number of words and words are taken as input and the even and o
 ```
 This was a simple problem where an array is taken as input and printed out in the reverse order.
 ```
+### [**Day 8 :**](/30-days-of-python/SwapnanilDutta_30DOC/D8-Dictionaries-and-Maps.py) 
+```
+In this problem pairs of name and phone number are taken as input and when a query is used to retrieve the phone number by name, the phone number is printed and if name does not match error is printed.
+```
