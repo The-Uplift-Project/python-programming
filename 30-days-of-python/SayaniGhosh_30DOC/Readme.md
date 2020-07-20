@@ -198,3 +198,12 @@ I have created a simple Image Viewer using Tkinter and Pillow. It has two workin
 ##### <i class="icon-file"></i> Sliders
 	In this, we learn to create "Sliders" in Tkinter.
 
+##### <i class="icon-file"></i> CheckBoxes
+	In this, we learn to create and operate on "Checkboxes" in Tkinter.
+	
+##### <i class="icon-file"></i> DropDown
+	In this, we learn to create "DropDown Options" in Tkinter.
+	
+##### <i class="icon-file"></i> DataBase
+	In this, we learn to create a simple "DataBase" file using Tkinter.
+
