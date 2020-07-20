@@ -43,6 +43,8 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Code List.py
   - TicTacToe.py
   - TicTacToe_Tuple version.py
+  - Euler1.py
+  - Euler Two.py
 
 - TKinter folder:
    - Code1.py
