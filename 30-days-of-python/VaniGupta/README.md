@@ -1,7 +1,7 @@
 ### A complete overview of all my codes in 30 days of Python: ###
+***total commits merged to far: 60***
 
-A merged commit history can be found at: ***total commits merged to far: 60***
-
+A merged commit history can be found at:  
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: ####
@@ -27,4 +27,19 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Rail fence.py (only decryption of RailFence Cipher)
   - Transposition Cipher.py (only encrypt)
   - Xor Cipher (Encryption and decryption both)
+  
+- Other Python practise codes:
+  - Parse Address.py
+  - Pascal Triangle.py
+  - Search 2D list.py
+  - Square Grid.py
+  - Stock Ticker.py
+  - Stock Ticker Intermediate.py
+  - String Remove.py
+  - Validate Sudoku.py
+  - Code List.py
+  - TicTacToe.py
+  - TicTacToe_Tuple version.py
+  
+  
   
