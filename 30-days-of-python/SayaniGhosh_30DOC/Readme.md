@@ -74,6 +74,15 @@ Documentation for Added Codes:
 ##### <i class="icon-file"></i> Day 20
 	In this challenge, we review a "Sorting Technique" in Python.
 
+##### <i class="icon-file"></i> Day 22
+	In this challenge, we go through "Binary Search Trees" in Python.
+	
+##### <i class="icon-file"></i> Day 23
+	In this challenge, we make "traversals in a Binary Search tree" in Python.
+	
+##### <i class="icon-file"></i> Day 24
+	In this challenge, we review more operations on "Linked Lists" in Python.
+
 ###Python Tutorial Problems (Language Proficiency)
 
 ##### <i class="icon-file"></i> Alphabet Rangoli
