@@ -37,3 +37,7 @@ This was a simple problem where an array is taken as input and printed out in th
 ```
 In this problem pairs of name and phone number are taken as input and when a query is used to retrieve the phone number by name, the phone number is printed and if name does not match error is printed.
 ```
+### [**Day 9 :**](/30-days-of-python/SwapnanilDutta_30DOC/D9-Recursion-3.py) 
+```
+This is a simple problem where a number is taken as input and iterated recursively to find the factorial of the number.
+```
