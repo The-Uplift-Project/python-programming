@@ -12,6 +12,8 @@ All the codes are:
   - Casar Encrypt.py
   - Caesar Decrypt
   - Caesar Final.py (Encrypt and decrypt combined, standalone program)
-  - 3 codes in total
+  
+- Hex to base64 conversion:
+  - takes an input of hexadecimal data and encrypts it into base64
   
 - 
