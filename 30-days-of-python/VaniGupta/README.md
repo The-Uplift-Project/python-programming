@@ -6,3 +6,12 @@ All the codes are:
 
 - Hackerrank: 
   - Day0 to Day20 (from 30 days of code)
+  - 21 codes in total (0 and 20 inclusive)
+  
+- Caesar Cipher:
+  - Casar Encrypt.py
+  - Caesar Decrypt
+  - Caesar Final.py (Encrypt and decrypt combined, standalone program)
+  - 3 codes in total
+  
+- 
