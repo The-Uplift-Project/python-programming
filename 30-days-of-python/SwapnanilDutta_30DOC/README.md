@@ -45,3 +45,7 @@ This is a simple problem where a number is taken as input and iterated recursive
 ```
 In this problem, a number is taken as input and converted into binary number. Then the binary number is iterated through and the highest number of consecutive '1's are returned.
 ```
+### [**Day 11 :**](/30-days-of-python/SwapnanilDutta_30DOC/D11-2D-Arrays.py) 
+```
+In this problem, an array is taken as input.Then, we calculate the hourglass sum for every hourglass in the array, then print the maximum hourglass sum.
+```
