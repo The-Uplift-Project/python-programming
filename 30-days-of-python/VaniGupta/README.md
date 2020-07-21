@@ -1,5 +1,5 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***Total commits merged to far: 60***
+***Total commits merged to far: 76***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
