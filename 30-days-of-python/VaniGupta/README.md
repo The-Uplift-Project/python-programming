@@ -1,11 +1,11 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***total commits merged to far: 60***
+***Total commits merged to far: 60***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 48***
+***Total codes completed to far: 49***
 
 **Language:** Python :snake:
 
@@ -47,7 +47,8 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Euler Two.py
 
 - TKinter folder:
-   - Code1.py
-   - Code2.py
-   - Code3.py
-   - Code4.py
+   - Code1.py (labels)
+   - Code2.py (buttons)
+   - Code3.py (buttons)
+   - Code4.py (exit buttons, images and icons)
+   - Code5.py (calculator app)
