@@ -83,6 +83,23 @@ Documentation for Added Codes:
 ##### <i class="icon-file"></i> Day 24
 	In this challenge, we review more operations on "Linked Lists" in Python.
 
+##### <i class="icon-file"></i> Day 25
+	In this challenge, we learnt to "optimize running time" in our codes in Python.
+	
+##### <i class="icon-file"></i> Day 26
+	In this challenge, we go through some more "Nested Logics" in Python.
+	
+##### <i class="icon-file"></i> Day 27
+	In this challenge, we create "Methods for testing a code" in Python.
+	
+##### <i class="icon-file"></i> Day 28
+	In this challenge, we go through "Regular Expressions,Patterns, Databases intro" in Python.
+	
+##### <i class="icon-file"></i> Day 29
+	In this challenge, we review more operations on "Bitwise Operators" in Python.
+
+#### (30Days Of Code is Completed)
+
 ###Python Tutorial Problems (Language Proficiency)
 
 ##### <i class="icon-file"></i> Alphabet Rangoli
