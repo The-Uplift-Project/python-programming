@@ -41,3 +41,7 @@ In this problem pairs of name and phone number are taken as input and when a que
 ```
 This is a simple problem where a number is taken as input and iterated recursively to find the factorial of the number.
 ```
+### [**Day 10 :**](/30-days-of-python/SwapnanilDutta_30DOC/D10-Binary-Numbers.py) 
+```
+In this problem, a number is taken as input and converted into binary number. Then the binary number is iterated through and the highest number of consecutive '1's are returned.
+```
