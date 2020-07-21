@@ -8,7 +8,7 @@ Documentation for Added Codes:
 -------------
 
 
-###30 Days Of Code
+## 30 Days Of Code
 
 
 ##### <i class="icon-file"></i> Day 0
@@ -100,7 +100,9 @@ Documentation for Added Codes:
 
 #### (30Days Of Code is Completed)
 
-###Python Tutorial Problems (Language Proficiency)
+## Python Tutorial Problems (Language Proficiency)
+
+
 
 ##### <i class="icon-file"></i> Alphabet Rangoli
 	In this problem, we "create a pattern with string alignments" in Python.
@@ -168,7 +170,7 @@ Documentation for Added Codes:
 ##### <i class="icon-file"></i> Split Join
 	In this problem, we "convert a string joined with spaces(' ') into a string joined with dashes('-')" in Python.
 
-###Tkinter Codes
+## Tkinter Codes
 
 #### <i class="icon-file"></i>Calculator
 I have created a simple GUI Calculator using Tkinter. It can do addition, subtraction, multiplication, division(zero error considered)
@@ -223,4 +225,7 @@ I have created a simple Image Viewer using Tkinter and Pillow. It has two workin
 	
 ##### <i class="icon-file"></i> DataBase
 	In this, we learn to create a simple "DataBase" file using Tkinter.
+
+##### <i class="icon-file"></i> DataBase2
+	In this, we learn to "add and print data from a database" using Tkinter and Sqlite3.
 
