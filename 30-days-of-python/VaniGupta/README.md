@@ -1,11 +1,11 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***Total commits merged to far: 60***
+***Total commits merged to far: 76***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 49***
+***Total codes completed to far: 58***
 
 **Language:** Python :snake:
 
@@ -43,8 +43,11 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Code List.py
   - TicTacToe.py
   - TicTacToe_Tuple version.py
-  - Euler1.py
-  - Euler Two.py
+  - CountingPopulations.py
+
+- Project Euler:
+  - Euler 1 to 10
+  - 10 codes in total
 
 - TKinter folder:
    - Code1.py (labels)
