@@ -5,7 +5,7 @@ A merged commit history can be found at: :man_technologist: :computer:
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 57***
+***Total codes completed to far: 58***
 
 **Language:** Python :snake:
 
@@ -43,6 +43,7 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Code List.py
   - TicTacToe.py
   - TicTacToe_Tuple version.py
+  - CountingPopulations.py
 
 - Project Euler:
   - Euler 1 to 10
