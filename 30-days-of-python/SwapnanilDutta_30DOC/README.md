@@ -49,3 +49,7 @@ In this problem, a number is taken as input and converted into binary number. Th
 ```
 In this problem, an array is taken as input.Then, we calculate the hourglass sum for every hourglass in the array, then print the maximum hourglass sum.
 ```
+### [**Day 12 :**](/30-days-of-python/SwapnanilDutta_30DOC/D12-Inheritance.py) 
+```
+In this problem, the student class stores the student's information and prints the grade after calculating the average of marks.
+```
