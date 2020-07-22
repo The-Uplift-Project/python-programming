@@ -229,3 +229,8 @@ I have created a simple Image Viewer using Tkinter and Pillow. It has two workin
 ##### <i class="icon-file"></i> DataBase2
 	In this, we learn to "add and print data from a database" using Tkinter and Sqlite3.
 
+##### <i class="icon-file"></i> DataBase3
+	In this, we learn to "delete a chosen data from a database" using Tkinter and Sqlite3.
+
+##### <i class="icon-file"></i> DataBase4
+	In this, we learn to "modify a chosen data from a database" using Tkinter and Sqlite3.
