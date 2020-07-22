@@ -6,7 +6,7 @@ import sqlite3
 root = Tk()
 root.title("Hi")
 root.iconbitmap("disneyland.ico")
-root.geometry("600x400")
+root.geometry("500x500")
 
 # DataBases
 
@@ -69,7 +69,7 @@ def show():
         "    City : "+str(rec[3])+"    State : "+str(rec[4])+"    ZipCode : "+str(rec[5])+"\n\n "
 
     q_lbl = Label(root, text=p)
-    q_lbl.grid(row=8, column=0, columnspan=2)
+    q_lbl.grid(row=14, column=0, columnspan=2)
 
     # Commit changes
     conn.commit()
@@ -98,7 +98,7 @@ state.grid(row=4, column=1, padx=20)
 zipc = Entry(root, width=30)
 zipc.grid(row=5, column=1, padx=20)
 
-
+# Create box labels
 f_name_lbl = Label(root, text="First Name : ", width=30)
 f_name_lbl.grid(row=0, column=0, padx=20)
 
@@ -117,17 +117,17 @@ state_lbl.grid(row=4, column=0, padx=20)
 zipc_lbl = Label(root, text="ZipCode : ", width=30)
 zipc_lbl.grid(row=5, column=0, padx=20)
 
+
+
 # Create Query Button
 q_btn = Button(root, text="Show Records", command=show)
-q_btn.grid(row=7, column=0, columnspan=2, pady=10, padx=10, ipadx=137)
+q_btn.grid(row=8, column=0, columnspan=2, pady=10, padx=10, ipadx=137)
 
 
 # Create Submit Btn
 
 submit_btn = Button(root, text="Add Data", command=Submit)
 submit_btn.grid(row=6, column=0, columnspan=2, padx=10, pady=10, ipadx=100)
-
-
 
 # Commit changes
 conn.commit()
