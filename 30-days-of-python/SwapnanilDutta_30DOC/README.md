@@ -33,3 +33,23 @@ In this problem, number of words and words are taken as input and the even and o
 ```
 This was a simple problem where an array is taken as input and printed out in the reverse order.
 ```
+### [**Day 8 :**](/30-days-of-python/SwapnanilDutta_30DOC/D8-Dictionaries-and-Maps.py) 
+```
+In this problem pairs of name and phone number are taken as input and when a query is used to retrieve the phone number by name, the phone number is printed and if name does not match error is printed.
+```
+### [**Day 9 :**](/30-days-of-python/SwapnanilDutta_30DOC/D9-Recursion-3.py) 
+```
+This is a simple problem where a number is taken as input and iterated recursively to find the factorial of the number.
+```
+### [**Day 10 :**](/30-days-of-python/SwapnanilDutta_30DOC/D10-Binary-Numbers.py) 
+```
+In this problem, a number is taken as input and converted into binary number. Then the binary number is iterated through and the highest number of consecutive '1's are returned.
+```
+### [**Day 11 :**](/30-days-of-python/SwapnanilDutta_30DOC/D11-2D-Arrays.py) 
+```
+In this problem, an array is taken as input.Then, we calculate the hourglass sum for every hourglass in the array, then print the maximum hourglass sum.
+```
+### [**Day 12 :**](/30-days-of-python/SwapnanilDutta_30DOC/D12-Inheritance.py) 
+```
+In this problem, the student class stores the student's information and prints the grade after calculating the average of marks.
+```

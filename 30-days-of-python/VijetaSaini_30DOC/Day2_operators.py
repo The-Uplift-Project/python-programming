@@ -1,6 +1,7 @@
 #Day2 Code
-#!/bin/python3
+#Operators
 
+#!/bin/python3
 import math
 import os
 import random
