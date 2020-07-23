@@ -234,3 +234,14 @@ I have created a simple Image Viewer using Tkinter and Pillow. It has two workin
 
 ##### <i class="icon-file"></i> DataBase4
 	In this, we learn to "modify a chosen data from a database" using Tkinter and Sqlite3.
+
+##### <i class="icon-file"></i> WeatherApp
+	In this, we learn to "generate a city's timezone and temperature using an API via Requests " in Tkinter .
+	
+##### <i class="icon-file"></i> CityLookUp
+	In this, we learn to "Created a form for user input and then calling weatherapp for that city" in Tkinter .
+	
+##### <i class="icon-file"></i> plt_charts
+	In this, we learn to "Created plots using Numpy and Matplotlib " in Tkinter .
+	
+### (Completed Tkinter Crash Course) 
