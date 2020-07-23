@@ -53,3 +53,7 @@ In this problem, an array is taken as input.Then, we calculate the hourglass sum
 ```
 In this problem, the student class stores the student's information and prints the grade after calculating the average of marks.
 ```
+### [**Day 13 :**](/30-days-of-python/SwapnanilDutta_30DOC/D13-Abstract-Class.py) 
+```
+In this problem, the MyBook class inherits from the Book class and stores the information. A new method is created to override the abstract method in the Book class and prints the book's details.
+```
