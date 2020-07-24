@@ -6,8 +6,6 @@ e = Entry(root, width=50, bg="pink", fg="black", borderwidth=10)
 e.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 # e.insert(0,"")
 
-
-
 def button_clr():
     e.delete(0, END)
 
