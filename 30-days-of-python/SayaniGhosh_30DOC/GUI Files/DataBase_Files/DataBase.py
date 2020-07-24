@@ -2,7 +2,6 @@ from tkinter import *
 from PIL import ImageTk, Image
 import sqlite3
 
-
 root = Tk()
 root.title("Hi")
 root.iconbitmap("disneyland.ico")
