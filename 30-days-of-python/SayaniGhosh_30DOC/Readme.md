@@ -1,5 +1,5 @@
 Hey! I'm **Sayani Ghosh**. I have been adding solutions to *Hackerank* tutorial problems of Python and also the solutions of 30Days Of Code.
-Apart from that, I have been learning how to use *Tkinter, Pillow, Sqlite3, Requests, Numpy, Matplotlib* in Python.
+Apart from that, for GUI I have been learning how to use *Tkinter, Pillow, Sqlite3, Requests, Numpy, Matplotlib* in Python.
 
 
 
@@ -170,7 +170,9 @@ Documentation for Added Codes:
 ##### <i class="icon-file"></i> Split Join
 	In this problem, we "convert a string joined with spaces(' ') into a string joined with dashes('-')" in Python.
 
-## Tkinter Codes
+
+## GUI CODES
+
 
 #### <i class="icon-file"></i>Calculator
 I have created a simple GUI Calculator using Tkinter. It can do addition, subtraction, multiplication, division(zero error considered)
