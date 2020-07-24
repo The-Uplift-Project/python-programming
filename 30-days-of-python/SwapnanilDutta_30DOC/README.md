@@ -57,3 +57,7 @@ In this problem, the student class stores the student's information and prints t
 ```
 In this problem, the MyBook class inherits from the Book class and stores the information. A new method is created to override the abstract method in the Book class and prints the book's details.
 ```
+### [**Day 14 :**](/30-days-of-python/SwapnanilDutta_30DOC/D14-Scope.py) 
+```
+In this problem, Difference is class which stores a list of numbers and a function calculates and stores the maximum difference between any of the two elements and print the difference as output.
+```
