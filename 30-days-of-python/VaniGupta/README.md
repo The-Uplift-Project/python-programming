@@ -1,11 +1,11 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***Total commits merged to far: 76***
+***Total commits merged to far: 93***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 58***
+***Total codes completed to far: 64***
 
 **Language:** Python :snake:
 
@@ -44,6 +44,11 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - TicTacToe.py
   - TicTacToe_Tuple version.py
   - CountingPopulations.py
+  - Count Letters.py
+  - Count Words.py
+  - Count Colors.py
+  - Log Info.py
+  - Markov Chain.py
 
 - Project Euler:
   - Euler 1 to 10
@@ -55,3 +60,5 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
    - Code3.py (buttons)
    - Code4.py (exit buttons, images and icons)
    - Code5.py (calculator app)
+   - Caesar Encrypt Tkinter.py (encyption in caesar)
+   - ![Caesar_encrypt GUI](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/Caesar_encrypt.PNG)
