@@ -3,7 +3,6 @@ from PIL import ImageTk, Image
 import requests
 import json
 
-
 root = Tk()
 root.title("Weather App")
 root.iconbitmap('disneyland.ico')
