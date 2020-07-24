@@ -1,11 +1,11 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***Total commits merged to far: 93***
+***Total commits merged to far: 105***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 64***
+***Total codes completed to far: 65***
 
 **Language:** Python :snake:
 
@@ -51,8 +51,8 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Markov Chain.py
 
 - Project Euler:
-  - Euler 1 to 10
-  - 10 codes in total
+  - Euler 1 to 11
+  - 11 codes in total
 
 - TKinter folder:
    - Code1.py (labels)
