@@ -90,3 +90,27 @@ btnK.grid(row = 2, column = 4)
 btnL.grid(row = 2, column = 5)
 btnM.grid(row = 2, column = 6)
 
+#============================Row 3================================#
+
+btnN = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'N', bg = 'light cyan', command = lambda : alpha("N"))
+btnO = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'O', bg = 'light green', command = lambda : alpha("O"))
+btnP = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'P', bg = 'light green', command = lambda : alpha("P"))
+btnQ = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'Q', bg = 'light green', command = lambda : alpha("Q"))
+btnR = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'R', bg = 'light green', command = lambda : alpha("R"))
+btnS = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'S', bg = 'light green', command = lambda : alpha("S"))
+btnT = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'T', bg = 'light cyan', command = lambda : alpha("T"))
+
+btnN.grid(row = 3, column = 0)
+btnO.grid(row = 3, column = 1)
+btnP.grid(row = 3, column = 2)
+btnQ.grid(row = 3, column = 3)
+btnR.grid(row = 3, column = 4)
+btnS.grid(row = 3, column = 5)
+btnT.grid(row = 3, column = 6)
