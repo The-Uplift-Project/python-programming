@@ -61,3 +61,7 @@ In this problem, the MyBook class inherits from the Book class and stores the in
 ```
 In this problem, Difference is class which stores a list of numbers and a function calculates and stores the maximum difference between any of the two elements and print the difference as output.
 ```
+### [**Day 15 :**](/30-days-of-python/SwapnanilDutta_30DOC/D15-Linked-List.py) 
+```
+In this problem, the insert function creates a new Node (pass as the Node constructor argument) and inserts it at the tail of the linked list referenced by the parameter. Once the new node is added, returns the reference to the node to be displayed.
+```
