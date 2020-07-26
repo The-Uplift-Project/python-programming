@@ -1,5 +1,7 @@
 from tkinter import *
 import pygame
+import requests
+import io
 import pyttsx3
 from PIL import ImageTk, Image
 
@@ -18,10 +20,14 @@ str1.set('Alphabet application for kids!')
 frame1 = Frame(root, bg = 'white')
 frame1.grid()
 
+response = requests.get("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/slightly-smiling-face_1f642.png")
+image_bytes = io.BytesIO(response.content)
+
+
 disp = Canvas(frame1, width = 135, height = 120)
 disp.grid(row = 1, column = 3)
-img = ImageTk.PhotoImage(Image.open("pic.jpg"))
-image = disp.create_image(80, 160, image = img)
+img = ImageTk.PhotoImage(Image.open(image_bytes))
+image = disp.create_image(68, 60, image = img)
 
 #=============================Button===========================#
 
