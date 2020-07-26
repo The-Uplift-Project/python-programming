@@ -63,4 +63,5 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
    - Caesar Encrypt Tkinter.py (encyption in caesar)
    - ![Caesar_encrypt GUI](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/Caesar_encrypt.PNG)
    - Alpha App.py (Simple application to learn alphabets for kids along with text to speech)
+      Please update "pic.png" to any other pic locally run this app successfully
    - ![Alphabet app](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/image.png)
