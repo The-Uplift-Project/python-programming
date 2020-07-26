@@ -5,7 +5,7 @@ A merged commit history can be found at: :man_technologist: :computer:
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 65***
+***Total codes completed to far: 66***
 
 **Language:** Python :snake:
 
@@ -62,3 +62,5 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
    - Code5.py (calculator app)
    - Caesar Encrypt Tkinter.py (encyption in caesar)
    - ![Caesar_encrypt GUI](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/Caesar_encrypt.PNG)
+   - Alpha App.py (Simple application to learn alphabets for kids along with text to speech)
+   - ![Alphabet app](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/image.png)
