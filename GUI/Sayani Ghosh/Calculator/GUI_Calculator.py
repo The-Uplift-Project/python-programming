@@ -55,9 +55,9 @@ def button_div():
     val="/"
 
 
+
 def button_eq():
     second_num = e.get()
-    # Zero Error condition
     if(float(second_num)==0):
         global val
         val="0e"
