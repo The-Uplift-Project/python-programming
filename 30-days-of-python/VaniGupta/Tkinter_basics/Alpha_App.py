@@ -114,3 +114,30 @@ btnQ.grid(row = 3, column = 3)
 btnR.grid(row = 3, column = 4)
 btnS.grid(row = 3, column = 5)
 btnT.grid(row = 3, column = 6)
+
+#============================Row 4================================#
+
+btnU = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'U', bg = 'light cyan', command = lambda : alpha("U"))
+btnV = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'V', bg = 'light cyan', command = lambda : alpha("V"))
+btnW = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'W', bg = 'light cyan', command = lambda : alpha("W"))
+btnX = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'X', bg = 'light cyan', command = lambda : alpha("X"))
+btnY = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'Y', bg = 'light cyan', command = lambda : alpha("Y"))
+btnZ = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'Z', bg = 'light cyan', command = lambda : alpha("Z"))
+btnClear = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'Clear', bg = 'light pink', command = clear)
+
+btnU.grid(row = 4, column = 0)
+btnV.grid(row = 4, column = 1)
+btnW.grid(row = 4, column = 2)
+btnX.grid(row = 4, column = 3)
+btnY.grid(row = 4, column = 4)
+btnZ.grid(row = 4, column = 5)
+btnClear.grid(row = 4, column = 6)
+
+root.mainloop()
