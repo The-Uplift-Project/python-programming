@@ -37,3 +37,9 @@ def clear():
 	engine.say('Alphabet application for kids!')
 	engine.runAndWait()
   
+#==========================Main Screen=========================#
+
+display = Entry(frame1, text = str1, font = ('chiller', 44, 'bold'),\
+	bg = 'light yellow', fg = 'black', bd = 14, justify = CENTER, width = 36)
+display.grid(row = 0, column = 0, columnspan = 7)
+
