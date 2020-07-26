@@ -23,3 +23,17 @@ disp.grid(row = 1, column = 3)
 img = ImageTk.PhotoImage(Image.open("pic.jpg"))
 image = disp.create_image(80, 160, image = img)
 
+#=============================Button===========================#
+
+def alpha(s):
+
+	str1.set("Letter pressed: {}".format(s))
+	engine.say("Letter pressed: {}".format(s))
+	engine.runAndWait()
+
+def clear():
+
+	str1.set('Alphabet application for kids!')
+	engine.say('Alphabet application for kids!')
+	engine.runAndWait()
+  
