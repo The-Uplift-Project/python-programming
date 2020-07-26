@@ -64,3 +64,29 @@ btnC.grid(row = 1, column = 2)
 btnD.grid(row = 1, column = 4)
 btnE.grid(row = 1, column = 5)
 btnF.grid(row = 1, column = 6)
+
+#============================Row 2================================#
+
+btnG = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'G', bg = 'light cyan', command = lambda : alpha("G"))
+btnH = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'H', bg = 'light green', command = lambda : alpha("H"))
+btnI = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'I', bg = 'light green', command = lambda : alpha("I"))
+btnJ = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'J', bg = 'light green', command = lambda : alpha("J"))
+btnK = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'K', bg = 'light green', command = lambda : alpha("K"))
+btnL = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'L', bg = 'light green', command = lambda : alpha("L"))
+btnM = Button(frame1, bd = 4, font = ('chiller', 20, 'bold'), width = 12,\
+	height = 3, text = 'M', bg = 'light cyan', command = lambda : alpha("M"))
+
+btnG.grid(row = 2, column = 0)
+btnH.grid(row = 2, column = 1)
+btnI.grid(row = 2, column = 2)
+btnJ.grid(row = 2, column = 3)
+btnK.grid(row = 2, column = 4)
+btnL.grid(row = 2, column = 5)
+btnM.grid(row = 2, column = 6)
+
