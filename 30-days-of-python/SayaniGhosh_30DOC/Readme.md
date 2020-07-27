@@ -169,3 +169,12 @@ Documentation for Added Codes:
 
 ##### <i class="icon-file"></i> Split Join
 	In this problem, we "convert a string joined with spaces(' ') into a string joined with dashes('-')" in Python.
+
+
+## Encryption Decryption Algorithms
+
+##### <i class="icon-file"></i> CaesarCipherEncrypt
+	In this algorithm we encrypt a given message with "Caesar Cipher Method" using Python.
+
+##### <i class="icon-file"></i> CaesarCipherDecrypt
+	In this algorithm we decrypt a given message with "Caesar Cipher Method" using Python.
