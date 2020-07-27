@@ -5,7 +5,7 @@ A merged commit history can be found at: :man_technologist: :computer:
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 67***
+***Total codes completed to far: 68***
 
 **Language:** Python :snake:
 
@@ -52,8 +52,8 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - PyNsqlite.py
 
 - Project Euler:
-  - Euler 1 to 11
-  - 11 codes in total
+  - Euler 1 to 12
+  - 12 codes in total
 
 - TKinter folder:
    - Code1.py (labels)
