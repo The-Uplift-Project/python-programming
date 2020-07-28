@@ -222,3 +222,61 @@ localtime = time.asctime(time.localtime(time.time()))
 
 lblinfo = Label(f2, font = ('arial', 20, 'bold'), text = localtime, bd = 10, anchor = W)
 lblinfo.grid(row = 0, column = 0, columnspan = 4)
+
+
+#=======================Calculator=====================#
+
+#=======================row 1 =========================#
+
+operator = ''
+
+btn7 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '7', bg = 'salmon1', command = lambda: btn(7))
+btn7.grid(row = 1, column = 0)
+btn8 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '8', bg = 'salmon1', command = lambda: btn(8))
+btn8.grid(row = 1, column = 1)
+btn9 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '9', bg = 'salmon1', command = lambda: btn(9))
+btn9.grid(row = 1, column = 2)
+btnC = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = 'C', bg = 'salmon1', command = clear)
+btnC.grid(row = 1, column = 3)
+
+#=======================row 2 =========================#
+
+btn4 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '4', bg = 'salmon1', command = lambda: btn(4))
+btn4.grid(row = 2, column = 0)
+btn5 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '5', bg = 'indian red', command = lambda: btn(5))
+btn5.grid(row = 2, column = 1)
+btn6 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '6', bg = 'indian red', command = lambda: btn(6))
+btn6.grid(row = 2, column = 2)
+btnsum = Button(f2, padx = 18, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '+', bg = 'salmon1', command = lambda: btn('+'))
+btnsum.grid(row = 2, column = 3)
+
+#=======================row 3 =========================#
+
+btn1 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '1', bg = 'salmon1', command = lambda: btn(1))
+btn1.grid(row = 3, column = 0)
+btn2 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '2', bg = 'indian red', command = lambda: btn(2))
+btn2.grid(row = 3, column = 1)
+btn3 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '3', bg = 'indian red', command = lambda: btn(3))
+btn3.grid(row = 3, column = 2)
+btndif = Button(f2, padx = 23, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '-', bg = 'salmon1', command = lambda: btn('-'))
+btndif.grid(row = 3, column = 3)
+
+#=======================row 4 =========================#
+
+btn0 = Button(f2, padx = 15, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '0', bg = 'salmon1', command = lambda: btn(0))
+btn0.grid(row = 4, column = 0)
+btndot = Button(f2, padx = 21, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '.', bg = 'indian red', command = lambda: btn('.'))
+btndot.grid(row = 4, column = 1)
+btndiv = Button(f2, padx = 21, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '/', bg = 'indian red', command = lambda: btn('/'))
+btndiv.grid(row = 4, column = 2)
+btnmul = Button(f2, padx = 17, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = 'x', bg = 'salmon1', command = lambda: btn('*'))
+btnmul.grid(row = 4, column = 3)
+
+#=======================row 5 =========================#
+
+btneq = Button(f2, padx = 64, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '=', bg = 'salmon1', command = equal)
+btneq.grid(row = 5, column = 0, columnspan = 2)
+btnopb = Button(f2, padx = 20, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = '(', bg = 'salmon1', command = lambda: btn('('))
+btnopb.grid(row = 5, column = 2)
+btnclb = Button(f2, padx = 21, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = ')', bg = 'salmon1', command = lambda: btn(')'))
+btnclb.grid(row = 5, column = 3)
