@@ -8,10 +8,12 @@ def hs_encrypt(strn, k):
         if ch in chars:
             lis = list(k[chars.find(ch)])
             msg += random.choice(lis)
+        else:
+            msg += ch
     return msg
 
 def key():
-    t = list(input("Enter space seperated key for ' ' ',' '.' and 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' : "))
+    t = list(input("Enter space seperated key for 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' : "))
 
     li = []
     s = ""
@@ -27,7 +29,7 @@ def key():
 
 t = ""
 while t != "exit":
-    chars = " ,.ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
     print("Enter message to encrypt")
     st = input()
