@@ -387,3 +387,44 @@ lbltot.grid(row = 5, column = 2)
 
 texttot = Entry(f1, font = ('arial', 16, 'bold'), textvariable = total, bd = 10, insertwidth = 4, justify = 'right')
 texttot.grid(row = 5, column = 3)
+
+
+#==============================Currency converter===================#
+
+var1 = IntVar()
+indicator = StringVar(value = 'Choose a country: ')
+
+lblcurrcon = Label(f1, font = ('arial', 16, 'bold'), text = '------------Currency Converter------------', bd = 20, anchor = W)
+lblcurrcon.grid(row = 6, column = 0, columnspan = 4)
+
+lblcountry = Label(f1, font = ('arial', 16, 'bold'), text = 'Nationality', bd = 20, anchor = W)
+lblcountry.grid(row = 7, column = 0)
+
+txtcountry = ttk.Combobox(f1, font = ('arial', 16, 'bold'), textvariable = indicator)
+txtcountry['values'] = ('India', 'France', 'Nigeria')
+txtcountry.grid(row = 7, column = 1)
+
+lblammount = Label(f1, font = ('arial', 16, 'bold'), text = 'Amount ($)', bd = 20, anchor = W)
+lblammount.grid(row = 7, column = 2)
+
+txtamnt = Entry(f1, font = ('arial', 16, 'bold'), textvariable = var1, bd = 10, insertwidth = 4, justify = 'right')
+txtamnt.grid(row = 7, column = 3)
+
+#==============================Buttons===================#
+
+btnconvert = Button(f1, padx = 10, pady = 4, bd = 16, width = 10, font = ('arial', 16, 'bold'), text = "Convert", command = convert, bg = 'RosyBrown1')
+btnconvert.grid(row = 8, column = 2)
+
+btntotal = Button(f4, padx = 10, pady = 8, bd = 16, width = 10, font = ('arial', 16, 'bold'), text = "Total", command = totalcost, bg = 'light pink')
+btntotal.grid(row = 0, column = 0)
+
+btnscreen = Button(f4, padx = 10, pady = 4, bd = 16, width = 10, font = ('arial', 16, 'bold'), text = "Clear", command = clearScreen, bg = 'light pink')
+btnscreen.grid(row = 1, column = 0)
+
+btnreset = Button(f4, padx = 10, pady = 8, bd = 16, width = 10, font = ('arial', 16, 'bold'), text = "Reset", command = reset, bg = 'light pink')
+btnreset.grid(row = 2, column = 0)
+
+btnexit = Button(f4, padx = 10, pady = 4, bd = 16, width = 10, font = ('arial', 16, 'bold'), text = "Exit", command = exit, bg = 'light pink')
+btnexit.grid(row = 3, column = 0)
+
+root.mainloop()
