@@ -5,7 +5,7 @@ A merged commit history can be found at: :man_technologist: :computer:
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 69***
+***Total codes completed to far: 70***
 
 **Language:** Python :snake:
 
@@ -30,6 +30,7 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Rail fence.py (only decryption of RailFence Cipher)
   - Transposition Cipher.py (only encrypt)
   - Xor Cipher (Encryption and decryption both)
+  - Homophonic cipher.py
   
 - Other Python practise codes:
   - Parse Address.py
