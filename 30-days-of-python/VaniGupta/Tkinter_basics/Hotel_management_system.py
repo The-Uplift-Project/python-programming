@@ -189,3 +189,36 @@ def rst():
     chkbx1.set(0)
     v.set(3)
     delivery.set(0.0)
+
+#======================Windows partition===================#
+
+topscreen = Frame(root, width = 1600, height = 100, bg = 'coral3', relief = SUNKEN)
+topscreen.pack(side = TOP)
+
+f1 = Frame(root, width = 700, height = 700, relief = SUNKEN)
+f1.pack(side = LEFT)
+
+f2 = Frame(root, width = 300, height = 700, relief = SUNKEN)
+f2.pack(side = RIGHT)
+
+f3 = Frame(root, width = 30, height = 700, relief = SUNKEN)
+f3.pack(side = LEFT)
+
+f4 = Frame(root, width = 100, height = 700, relief = SUNKEN)
+f4.pack(side = LEFT)
+
+#==========================Main screen=====================#
+
+txt_input = StringVar(value = 'Hotel management')
+
+display = Entry(topscreen, font = ('arial', 90, 'bold'), fg = 'white', bd = 30,
+    bg = 'coral3', justify = 'center', textvariable = txt_input)
+
+display.grid(columnspan = 4)
+
+#===========================Date and Time====================#
+
+localtime = time.asctime(time.localtime(time.time()))
+
+lblinfo = Label(f2, font = ('arial', 20, 'bold'), text = localtime, bd = 10, anchor = W)
+lblinfo.grid(row = 0, column = 0, columnspan = 4)
