@@ -280,3 +280,38 @@ btnopb = Button(f2, padx = 20, pady = 5, bd = 8, font = ('arial', 30, 'bold'), t
 btnopb.grid(row = 5, column = 2)
 btnclb = Button(f2, padx = 21, pady = 5, bd = 8, font = ('arial', 30, 'bold'), text = ')', bg = 'salmon1', command = lambda: btn(')'))
 btnclb.grid(row = 5, column = 3)
+
+#==============================Meals===================#
+meal1 = IntVar()
+meal_box = StringVar(value = 'Food items')
+
+lblMeal = Label(f1, font = ('arial', 16, 'bold'), text = 'Choose meal:', bd = 10, anchor = W)
+lblMeal.grid(row = 0, column = 0)
+
+textmeal = ttk.Combobox(f1, font = ('arial', 16, 'bold'), textvariable = meal_box)
+textmeal['values'] = ('Noodles', 'Springroll', 'Pizza', 'Burger')
+textmeal.grid(row = 0, column = 1)
+
+lblQty = Label(f1, font = ('arial', 16, 'bold'), text = "Quantity:", bd = 10, anchor = W)
+lblQty.grid(row = 1, column = 0)
+
+txtQty = Entry(f1, font = ('arial', 16, 'bold'), textvariable = meal1, bd = 10, insertwidth = 4, justify = 'right')
+txtQty.grid(row = 1, column =1)
+
+#==============================Drinks===================#
+
+drink1 = IntVar()
+drink_box = StringVar(value = 'Fresh drinks')
+
+lblDrink = Label(f1, font = ('arial', 16, 'bold'), text = 'Choose drink:', bd = 10, anchor = W)
+lblDrink.grid(row = 2, column = 0)
+
+textdrink = ttk.Combobox(f1, font = ('arial', 16, 'bold'), textvariable = drink_box)
+textdrink['values'] = ('Water', 'Pepsi', 'Lemonade', 'Frooti')
+textdrink.grid(row = 2, column = 1)
+
+lblQty1 = Label(f1, font = ('arial', 16, 'bold'), text = "Quantity:", bd = 10, anchor = W)
+lblQty1.grid(row = 3, column = 0)
+
+txtQty1 = Entry(f1, font = ('arial', 16, 'bold'), textvariable = drink1, bd = 10, insertwidth = 4, justify = 'right')
+txtQty1.grid(row = 3, column =1)
