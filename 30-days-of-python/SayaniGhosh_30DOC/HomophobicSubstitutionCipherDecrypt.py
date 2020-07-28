@@ -3,15 +3,20 @@
 def hs_decrypt(strn, k):
     msg = ""
     for ch in strn:
+        if ch == ' ':
+            msg += ch
+            continue
         for i in range(len(k)):
             lis = list(k[i])
             if ch in lis:
                 msg += chars[i]
+
+
     return msg
 
 
 def key():
-    t = list(input("Enter space seperated key for ' ' ',' '.' and 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' : "))
+    t = list(input("Enter space seperated key for 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' : "))
 
     li = []
     s = ""
@@ -28,7 +33,7 @@ def key():
 
 t = ""
 while t != "exit":
-    chars = " ,.ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
     print("Enter message to decrypt")
     st = input()
