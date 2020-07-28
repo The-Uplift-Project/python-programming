@@ -315,3 +315,75 @@ lblQty1.grid(row = 3, column = 0)
 
 txtQty1 = Entry(f1, font = ('arial', 16, 'bold'), textvariable = drink1, bd = 10, insertwidth = 4, justify = 'right')
 txtQty1.grid(row = 3, column =1)
+
+#==============================Delivery===================#
+
+chkbx1 = IntVar()
+
+lbldev = Label(f1, font = ('arial', 16, 'bold'), text = 'Delivery?', bd = 10, anchor = W)
+lbldev.grid(row = 4, column = 0)
+
+check = Checkbutton(f1, font = ('arial', 16, 'bold'), text = "Yes", bd = 10, variable = chkbx1)
+check.grid(row = 4, column = 1)
+
+#==============================Room===================#
+
+v = IntVar()
+v.set(3)
+
+lblRoom = Label(f1, font = ('arial', 16, 'bold'), text = 'Book a room:',  bd = 10, anchor = W)
+lblRoom.grid(row = 5, column = 0)
+
+radiobutton = Radiobutton(f1, font = ('arial', 16, 'bold'), text = 'VIP', variable = v, value = 1)
+radiobutton.grid(row = 5, column = 1, sticky = E)
+
+radiobutton = Radiobutton(f1, font = ('arial', 16, 'bold'), text = 'Normal', variable = v, value = 2)
+radiobutton.grid(row = 5, column = 1)
+
+radiobutton = Radiobutton(f1, font = ('arial', 16, 'bold'), text = 'No', variable = v, value = 3)
+radiobutton.grid(row = 5, column = 1, sticky = W)
+
+#==============================Cost===================#
+
+cost = StringVar()
+lblmeal1 = Label(f1, font = ('arial', 16, 'bold'), text = 'Cost of meal ($)', bd = 10, anchor = W)
+lblmeal1.grid(row = 0, column = 2)
+
+textmeal1 = Entry(f1, font = ('arial', 16, 'bold'), textvariable = cost, bd = 10, insertwidth = 4, justify = 'right')
+textmeal1.grid(row = 0, column = 3)
+
+
+drink = StringVar()
+lbldrink1 = Label(f1, font = ('arial', 16, 'bold'), text = 'Cost of drink ($)', bd = 10, anchor = W)
+lbldrink1.grid(row = 1, column = 2)
+
+textdrink1 = Entry(f1, font = ('arial', 16, 'bold'), textvariable = drink, bd = 10, insertwidth = 4, justify = 'right')
+textdrink1.grid(row = 1, column = 3)
+
+delivery = StringVar()
+lbldev = Label(f1, font = ('arial', 16, 'bold'), text = 'Cost of delivery ($)', bd = 10, anchor = W)
+lbldev.grid(row = 2, column = 2)
+
+textdev = Entry(f1, font = ('arial', 16, 'bold'), textvariable = delivery, bd = 10, insertwidth = 4, justify = 'right')
+textdev.grid(row = 2, column = 3)
+
+room = StringVar()
+lblroom = Label(f1, font = ('arial', 16, 'bold'), text = 'Cost of Room ($)', bd = 10, anchor = W)
+lblroom.grid(row = 3, column = 2)
+
+textroom = Entry(f1, font = ('arial', 16, 'bold'), textvariable = room, bd = 10, insertwidth = 4, justify = 'right')
+textroom.grid(row = 3, column = 3)
+
+service = StringVar()
+lblser = Label(f1, font = ('arial', 16, 'bold'), text = 'Service charge ($)', bd = 10, anchor = W)
+lblser.grid(row = 4, column = 2)
+
+textser = Entry(f1, font = ('arial', 16, 'bold'), textvariable = service, bd = 10, insertwidth = 4, justify = 'right')
+textser.grid(row = 4, column = 3)
+
+total = StringVar()
+lbltot = Label(f1, font = ('arial', 16, 'bold'), text = 'Total ($)', bd = 10, anchor = W)
+lbltot.grid(row = 5, column = 2)
+
+texttot = Entry(f1, font = ('arial', 16, 'bold'), textvariable = total, bd = 10, insertwidth = 4, justify = 'right')
+texttot.grid(row = 5, column = 3)
