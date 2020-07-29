@@ -65,3 +65,7 @@ In this problem, Difference is class which stores a list of numbers and a functi
 ```
 In this problem, the insert function creates a new Node (pass as the Node constructor argument) and inserts it at the tail of the linked list referenced by the parameter. Once the new node is added, returns the reference to the node to be displayed.
 ```
+### [**Day 16 :**](/30-days-of-python/SwapnanilDutta_30DOC/D16-Exceptions.py) 
+```
+This is a simple problem where a number is taken as input and converted into integer, but if the input is not an integer, the exception will print an error message.
+```
