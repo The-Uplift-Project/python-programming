@@ -73,3 +73,7 @@ This is a simple problem where a number is taken as input and converted into int
 ```
 This is a problem where two numbers n and p are taken as input and used to calculate the n to the power p value, but if any of them are negative then the appropriate error is returned.
 ```
+### [**Day 18 :**](/30-days-of-python/SwapnanilDutta_30DOC/D18-Queues-and-Stacks.py) 
+```
+In this problem, a class has two instances, one stack and one queue. The stack is used to push and pop elements and queue is used to enqueue and dequeue elements. By this way, the string is checked for palindrome.
+```
