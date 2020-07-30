@@ -1,7 +1,7 @@
 import random
 # Encrypt Homophobic Substitution Cipher Messages
 
-
+# Encrypt function to return the encoded message using key given by users
 def hs_encrypt(strn, k):
     msg = ""
     for ch in strn:
@@ -12,6 +12,7 @@ def hs_encrypt(strn, k):
             msg += ch
     return msg
 
+# key function to return key value for each letter according to users to increase security
 def key():
     t = list(input("Enter space seperated key for 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' : "))
 
@@ -27,6 +28,7 @@ def key():
             li.append(s)
     return li
 
+# Execution of the Encoding Process
 t = ""
 while t != "exit":
     chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
