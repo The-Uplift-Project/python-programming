@@ -1,5 +1,5 @@
 import random
-# Encrypt Homophobic Substitution Cipher Messages
+# Encrypt Homophonic Substitution Cipher Messages
 
 # Encrypt function to return the encoded message using key given by users
 def hs_encrypt(strn, k):
