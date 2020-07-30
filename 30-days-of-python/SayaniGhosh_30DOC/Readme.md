@@ -173,14 +173,20 @@ Documentation for Added Codes:
 
 ## Encryption Decryption Algorithms
 
-##### <i class="icon-file"></i> CaesarCipherEncrypt
+##### <i class="icon-file"></i> Caesar Cipher Encrypt
 	In this algorithm we encrypt a given message with "Caesar Cipher Method" using Python.
 
-##### <i class="icon-file"></i> CaesarCipherDecrypt
+##### <i class="icon-file"></i> Caesar Cipher Decrypt
 	In this algorithm we decrypt a given message with "Caesar Cipher Method" using Python.
 	
-##### <i class="icon-file"></i> HomophobicSubstitutionCipherEncrypt
+##### <i class="icon-file"></i> Homophonic Substitution Cipher Encrypt
 	In this algorithm we encrypt a given message with "Homophobic Substitution Cipher Method" using Python.
 
-##### <i class="icon-file"></i> HomophobicSubstitutionCipherDecrypt
+##### <i class="icon-file"></i> Homophonic Substitution Cipher Decrypt
 	In this algorithm we decrypt a given message with "Homophobic Substitution Cipher Method" using Python.
+
+##### <i class="icon-file"></i> Vigenere Cipher Encrypt
+	In this algorithm we encrypt a given message with "Vigenere Cipher Method" using Python.
+
+##### <i class="icon-file"></i> Vigenere Cipher Decrypt
+	In this algorithm we decrypt a given message with "Vigenere Cipher Method" using Python.
