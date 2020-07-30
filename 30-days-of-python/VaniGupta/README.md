@@ -1,11 +1,11 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***Total commits merged to far: 107***
+***Total commits merged to far: 125***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 68***
+***Total codes completed to far: 71***
 
 **Language:** Python :snake:
 
@@ -30,6 +30,8 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Rail fence.py (only decryption of RailFence Cipher)
   - Transposition Cipher.py (only encrypt)
   - Xor Cipher (Encryption and decryption both)
+  - Homophonic cipher.py
+  - Homophonic cipher2.py
   
 - Other Python practise codes:
   - Parse Address.py
@@ -65,3 +67,5 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
    - ![Caesar_encrypt GUI](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/Caesar_encrypt.PNG)
    - Alpha App.py (Simple application to learn alphabets for kids along with text to speech)
    - ![Alphabet app](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/image.png)
+   - Hotel Management System
+   - ![Hotel management](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/hotel.jpeg)
