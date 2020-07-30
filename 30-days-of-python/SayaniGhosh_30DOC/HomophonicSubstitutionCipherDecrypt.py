@@ -1,5 +1,6 @@
-# Decrypt Homophobic Substitution Cipher Messages
+# Decrypt Homophonic Substitution Cipher Messages
 
+# Decrypt function to decode and encoded msg using the given key
 def hs_decrypt(strn, k):
     msg = ""
     for ch in strn:
@@ -15,6 +16,7 @@ def hs_decrypt(strn, k):
     return msg
 
 
+# Key Function to interpret the given key by user
 def key():
     t = list(input("Enter space seperated key for 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' : "))
 
@@ -31,6 +33,7 @@ def key():
     return li
 
 
+# Decoding Process of the encoded msg
 t = ""
 while t != "exit":
     chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
