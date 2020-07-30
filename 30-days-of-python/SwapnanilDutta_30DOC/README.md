@@ -69,3 +69,7 @@ In this problem, the insert function creates a new Node (pass as the Node constr
 ```
 This is a simple problem where a number is taken as input and converted into integer, but if the input is not an integer, the exception will print an error message.
 ```
+### [**Day 17 :**](/30-days-of-python/SwapnanilDutta_30DOC/D17-More-Exceptions.py) 
+```
+This is a problem where two numbers n and p are taken as input and used to calculate the n to the power p value, but if any of them are negative then the appropriate error is returned.
+```
