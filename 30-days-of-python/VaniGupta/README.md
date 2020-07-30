@@ -1,11 +1,11 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***Total commits merged to far: 125***
+***Total commits merged to far: 137***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 71***
+***Total codes completed to far: 72***
 
 **Language:** Python :snake:
 
@@ -32,6 +32,7 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Xor Cipher (Encryption and decryption both)
   - Homophonic cipher.py
   - Homophonic cipher2.py
+  - Vignere Cipher.py
   
 - Other Python practise codes:
   - Parse Address.py
