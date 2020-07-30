@@ -178,3 +178,9 @@ Documentation for Added Codes:
 
 ##### <i class="icon-file"></i> CaesarCipherDecrypt
 	In this algorithm we decrypt a given message with "Caesar Cipher Method" using Python.
+	
+##### <i class="icon-file"></i> HomophobicSubstitutionCipherEncrypt
+	In this algorithm we encrypt a given message with "Homophobic Substitution Cipher Method" using Python.
+
+##### <i class="icon-file"></i> HomophobicSubstitutionCipherDecrypt
+	In this algorithm we decrypt a given message with "Homophobic Substitution Cipher Method" using Python.
