@@ -1,4 +1,11 @@
 ﻿Hey! I'm **Sayani Ghosh**. I have been learning GUI and how to use *Tkinter, Pillow, Sqlite3, Requests, Numpy, Matplotlib* in Python.
+## Count Updates:
+Total Commits = 236
+
+Total Codes = 84
+
+Total Pull Requests = 20
+
 
 
 
