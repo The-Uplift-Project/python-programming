@@ -1,2 +1,0 @@
-GUI Tkinter 
-Daily progress
