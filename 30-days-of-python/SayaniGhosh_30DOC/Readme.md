@@ -1,6 +1,9 @@
 Hey! I'm **Sayani Ghosh**. I have been adding solutions to *Hackerank* tutorial problems of Python and also the solutions of 30Days Of Code.
-
-
+## Count Updates:
+-----------------
+Total Commits = 236
+Total Codes = 84
+Total Pull Requests = 20
 
 
 
