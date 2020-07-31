@@ -6,6 +6,6 @@ import sys
 S = input().strip()
 
 try:
-    print(int(s))
+    print(int(S))
 except:
     print("Bad String")
