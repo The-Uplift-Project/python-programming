@@ -251,15 +251,18 @@ def vignere_cipher():
 		enc_text = ""	
 
 		if len(key) > len(txt):
-			key = key[: len(key) - len(txt)]
+			key = key[: len(key) - len(txt) - 1]
 		elif len(key) < len(txt):
 			key = (key * ((len(txt) // len(key)) + 1))[:len(txt)]
 
 		for i in range(len(txt)):
 			if txt[i].isupper(): 
 				v = 'A'
-			else: 
+			elif txt[i].islower(): 
 				v = 'a'
+			else:
+				enc_text += txt[i]
+				continue
 
 			enc_text += (chr(((ord(txt[i]) - 2 * ord(v) + ord(key[i])) % 26) + ord(v)))
 
@@ -276,16 +279,19 @@ def vignere_cipher():
 		dec_text = ""
 
 		if len(key) > len(txt):
-			key = key[: len(key) - len(txt)]
+			key = key[: len(key) - len(txt) - 1]
 		elif len(key) < len(txt):
 			key = (key * ((len(txt) // len(key)) + 1))[:len(txt)]
 
 		for i in range(len(txt)):
 			if txt[i].isupper(): 
 				v = 'A'
-			else: 
+			elif txt[i].islower(): 
 				v = 'a'
-		
+			else:
+				dec_text += txt[i]
+				continue
+
 			s = ord(txt[i]) - ord(key[i])
 			if s < 0: 
 				s += 26
@@ -328,5 +334,8 @@ C3.grid(row = 6, column = 0)
 
 C4 = Button(left_pane, padx = 20, bd = 10, text = 'Cipher 4', width = 20, height = 3)
 C4.grid(row = 7, column = 0)
+
+
+
 
 root.mainloop()
