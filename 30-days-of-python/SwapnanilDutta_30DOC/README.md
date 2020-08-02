@@ -77,3 +77,7 @@ This is a problem where two numbers n and p are taken as input and used to calcu
 ```
 In this problem, a class has two instances, one stack and one queue. The stack is used to push and pop elements and queue is used to enqueue and dequeue elements. By this way, the string is checked for palindrome.
 ```
+### [**Day 19 :**](/30-days-of-python/SwapnanilDutta_30DOC/D19-Interfaces.py) 
+```
+In this problem, the implementation of Calculator class, which implements the AdvancedArithmetic interface. The implementation for the divisorSum(n) method must return the sum of all divisors of n.
+```
