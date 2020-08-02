@@ -1,10 +1,10 @@
 ﻿Hey! I'm **Sayani Ghosh**. I have been learning GUI and how to use *Tkinter, Pillow, Sqlite3, Requests, Numpy, Matplotlib* in Python.
 ## Count Updates:
-Total Commits = 236
+Total Commits = 246
 
-Total Codes = 84
+Total Codes = 85
 
-Total Pull Requests = 20
+Total Pull Requests = 21
 
 
 
@@ -15,6 +15,9 @@ Documentation for Added Codes:
 
 ## GUI CODES
 
+
+#### <i class="icon-file"></i>CiphX
+I have created a GUI Cipher App using Tkinter and Pillow. It can encode and decode messages in three methods Caesar Cipher, Homophonic Substitution Cipher, Vigenere Cipher.
 
 #### <i class="icon-file"></i>Calculator
 I have created a simple GUI Calculator using Tkinter. It can do addition, subtraction, multiplication, division(zero error considered)
