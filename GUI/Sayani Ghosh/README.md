@@ -16,6 +16,9 @@ Documentation for Added Codes:
 ## GUI CODES
 
 
+#### <i class="icon-file"></i>CiphX
+I have created a GUI Cipher App using Tkinter and Pillow. It can encode and decode messages in three methods Caesar Cipher, Homophonic Substitution Cipher, Vigenere Cipher.
+
 #### <i class="icon-file"></i>Calculator
 I have created a simple GUI Calculator using Tkinter. It can do addition, subtraction, multiplication, division(zero error considered)
 
