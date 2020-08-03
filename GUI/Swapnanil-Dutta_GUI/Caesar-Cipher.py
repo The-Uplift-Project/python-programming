@@ -39,7 +39,8 @@ def driver():
         result = converter(text, s)
     else:
         result = converter(text, 26-s)
-
+        
+    Result_field.delete(0, END)
     Result_field.insert(0,result)
 
 if __name__ == "__main__" :
