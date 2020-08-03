@@ -53,3 +53,31 @@ In this problem, an array is taken as input.Then, we calculate the hourglass sum
 ```
 In this problem, the student class stores the student's information and prints the grade after calculating the average of marks.
 ```
+### [**Day 13 :**](/30-days-of-python/SwapnanilDutta_30DOC/D13-Abstract-Class.py) 
+```
+In this problem, the MyBook class inherits from the Book class and stores the information. A new method is created to override the abstract method in the Book class and prints the book's details.
+```
+### [**Day 14 :**](/30-days-of-python/SwapnanilDutta_30DOC/D14-Scope.py) 
+```
+In this problem, Difference is class which stores a list of numbers and a function calculates and stores the maximum difference between any of the two elements and print the difference as output.
+```
+### [**Day 15 :**](/30-days-of-python/SwapnanilDutta_30DOC/D15-Linked-List.py) 
+```
+In this problem, the insert function creates a new Node (pass as the Node constructor argument) and inserts it at the tail of the linked list referenced by the parameter. Once the new node is added, returns the reference to the node to be displayed.
+```
+### [**Day 16 :**](/30-days-of-python/SwapnanilDutta_30DOC/D16-Exceptions.py) 
+```
+This is a simple problem where a number is taken as input and converted into integer, but if the input is not an integer, the exception will print an error message.
+```
+### [**Day 17 :**](/30-days-of-python/SwapnanilDutta_30DOC/D17-More-Exceptions.py) 
+```
+This is a problem where two numbers n and p are taken as input and used to calculate the n to the power p value, but if any of them are negative then the appropriate error is returned.
+```
+### [**Day 18 :**](/30-days-of-python/SwapnanilDutta_30DOC/D18-Queues-and-Stacks.py) 
+```
+In this problem, a class has two instances, one stack and one queue. The stack is used to push and pop elements and queue is used to enqueue and dequeue elements. By this way, the string is checked for palindrome.
+```
+### [**Day 19 :**](/30-days-of-python/SwapnanilDutta_30DOC/D19-Interfaces.py) 
+```
+In this problem, the implementation of Calculator class, which implements the AdvancedArithmetic interface. The implementation for the divisorSum(n) method must return the sum of all divisors of n.
+```
