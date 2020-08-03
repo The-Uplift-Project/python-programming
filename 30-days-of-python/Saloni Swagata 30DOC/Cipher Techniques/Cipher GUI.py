@@ -9,6 +9,9 @@ root.config(bg="skyblue")
 root.geometry("1200x1200")
 key_table={'A':['D','9'],'B':'X','C':'S','D':'F','E':['Z','7','2','1'],'F':'E','G':'H','H':'C','I':['V','3'],'J':'I','K':'T','L':'P','M':'G','N':['A','5'],'O':['Q','0'],'P':'L','Q':'K','R':'J','S':['R','4'],'T':['U','6'],'U':'O','V':'W','W':'M','X':'Y','Y':'B','Z':'N'}
 
+def myDelete():
+    myLabel.destroy()
+
 def caeserencrypt():
     global myLabel
     s = e.get()
@@ -88,13 +91,9 @@ def generateKey(msg, key):
 def vigenerencrypt():
     global myLabel
     msg = e.get().upper()
-    e.delete(0, 'end')
-
-    dec1 = Label(root, text="Enter the keyword:", bg="skyblue", fg="black", font="none 20 bold")
-    dec1.grid(row=2,column=2)
-    keyword = Entry(root, width=10, font=('Helvetica', 30))
-    keyword.grid(row=2,column=3, padx=5, pady=5)
-    key = generateKey(msg, keyword.get()) 
+    keyword = "AYUSH"
+    
+    key = generateKey(msg, keyword) 
     enc_list = [] 
     for i in range(len(msg)): 
         x = (ord(msg[i]) + 
@@ -104,19 +103,15 @@ def vigenerencrypt():
     enc="" . join(enc_list)
 
     myLabel = Label(root, text=enc)
-    myLabel.grid(row=3,column=2, padx=5, pady=5)
+    myLabel.grid(row=4,column=1, padx=5, pady=5)
+    e.delete(0, 'end')
 
 def vigenerdecrypt():
     global myLabel
-    enc = e1.get()
-    e1.delete(0, 'end')
-
-    dec1 = Label(root, text="Enter the keyword:", bg="skyblue", fg="black", font="none 20 bold")
-    dec1.grid(row=2,column=2, padx=5, pady=5)
-    keyword = Entry(root, width=10, font=('Helvetica', 30))
-    keyword.grid(row=2,column=3, padx=5, pady=5)
-    key = generateKey(msg, keyword.get()) 
-
+    enc = e1.get().upper()
+    keyword = "AYUSH"
+    
+    key = generateKey(enc, keyword) 
     dec_list = [] 
     for i in range(len(enc)): 
         x = (ord(enc[i]) - 
@@ -126,7 +121,8 @@ def vigenerdecrypt():
     dec = "" . join(dec_list)
 
     myLabel = Label(root, text=dec)
-    myLabel.grid(row=3,column=2, padx=5, pady=5)
+    myLabel.grid(row=4,column=1, padx=5, pady=5)
+    e1.delete(0, 'end')
 
 
 
