@@ -49,6 +49,7 @@ def driver():
     else:
         result = converter(text, key)
 
+    Result_field.delete(0, END)
     Result_field.insert(0,result)
 
 if __name__ == "__main__" :
