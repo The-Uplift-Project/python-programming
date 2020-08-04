@@ -1,11 +1,7 @@
 Hey! I'm **Sayani Ghosh**. I have been adding solutions to *Hackerank* tutorial problems of Python and also the solutions of 30Days Of Code.
 ## Count Updates:
-Total Commits = 236
 
-Total Codes = 84
-
-Total Pull Requests = 20
-
+Total Codes = 85
 
 
 Documentation for Added Codes:
@@ -194,3 +190,9 @@ Documentation for Added Codes:
 
 ##### <i class="icon-file"></i> Vigenere Cipher Decrypt
 	In this algorithm we decrypt a given message with "Vigenere Cipher Method" using Python.
+
+##### <i class="icon-file"></i> AutoKey Cipher Decrypt
+	In this algorithm we decrypt a given message with "AutoKey Cipher Method" using Python.
+	
+##### <i class="icon-file"></i> AutoKey Cipher Decrypt
+	In this algorithm we decrypt a given message with "AutoKey Cipher Method" using Python.
