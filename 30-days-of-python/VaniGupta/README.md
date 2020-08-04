@@ -1,31 +1,31 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***Total commits merged to far: 137***
+***Total commits merged to far: 139***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 72***
+***Total codes completed to far: 92***
 
 **Language:** Python :snake:
 
-- Hackerrank: 
+- Hackerrank: (21)
   - Day0 to Day20 (from 30 days of code)
   - 21 codes in total (0 and 20 inclusive)
   
-- Caesar Cipher:
+- Caesar Cipher:(3)
   - Casar Encrypt.py
   - Caesar Decrypt
   - Caesar Final.py (Encrypt and decrypt combined, standalone program)
   
-- Hex to base64 conversion:
+- Hex to base64 conversion: (1)
   - takes an input of hexadecimal data and encrypts it into base64
   
-- Object Oriented Python:
+- Object Oriented Python: (2)
   - Oop excercise.py
   - Oop syntax.py
   
-- Other Ciphers:
+- Other Ciphers: (8)
   - Rail Cipher.py (only encryption of RailFence Cipher)
   - Rail fence.py (only decryption of RailFence Cipher)
   - Transposition Cipher.py (only encrypt)
@@ -33,8 +33,9 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Homophonic cipher.py
   - Homophonic cipher2.py
   - Vignere Cipher.py
+  - Autokey Cipher.py
   
-- Other Python practise codes:
+- Other Python practise codes: (36)
   - Parse Address.py
   - Pascal Triangle.py
   - Search 2D list.py
@@ -53,12 +54,30 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Log Info.py
   - Markov Chain.py
   - PyNsqlite.py
+  - Rooke Move.py
+  - Board Color.py
+  - Bishop Move.py
+  - Knight Move.py
+  - Linear Equation.py
+  - LostCard.py
+  - RectangleVertices.py
+  - SecondOccurence.py
+  - First and Last occurence.py
+  - Jogging.py
+  - GreaterPrevious.py
+  - SecondLargest.py
+  - NumberofMaxim.py
+  - WidestFragment.py
+  - Fib1.py
+  - Fib2.py
+  - SignNeighbors.py
+  - SwapNeighbors.py
 
-- Project Euler:
+- Project Euler: (12)
   - Euler 1 to 12
   - 12 codes in total
 
-- TKinter folder:
+- TKinter folder: (9)
    - Code1.py (labels)
    - Code2.py (buttons)
    - Code3.py (buttons)
@@ -70,3 +89,4 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
    - ![Alphabet app](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/image.png)
    - Hotel Management System
    - ![Hotel management](https://github.com/vanigupta20024/python-programming/blob/Team-PY6/30-days-of-python/VaniGupta/hotel.jpeg)
+   - First three ciphers.py
