@@ -22,7 +22,6 @@ def encrypt():
     return enc
 
 def decrypt(string):
-    print(string, key)
     dec = ""
     s = 0
     v = ''
