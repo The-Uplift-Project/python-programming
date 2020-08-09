@@ -81,3 +81,11 @@ In this problem, a class has two instances, one stack and one queue. The stack i
 ```
 In this problem, the implementation of Calculator class, which implements the AdvancedArithmetic interface. The implementation for the divisorSum(n) method must return the sum of all divisors of n.
 ```
+### [**Day 20 :**](/30-days-of-python/SwapnanilDutta_30DOC/D20-Sorting.py) 
+```
+In this problem, the sorting is performed with least number of swaps. Finally the sorting result is printed with the number of swaps.
+```
+### [**Day 21 :**](/30-days-of-python/SwapnanilDutta_30DOC/D21-Generics.java) 
+```
+In this problem, the function takes an array of generic elements as a parameter (the exception to this is C++, which takes a vector). Had to do in Java, since Python3 wasn't available.
+```

@@ -3,6 +3,10 @@ def c_encrypt(strn, sft):
     msg = ""
     for i in range(len(strn)):
         ch = strn[i]
+
+        if ch == ' ':
+            msg += ch
+            continue
         if ch.isupper():
             msg += chr((ord(ch) + sft - 65) % 26 + 65)
         else:
