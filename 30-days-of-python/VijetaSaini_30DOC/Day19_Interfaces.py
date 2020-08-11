@@ -11,7 +11,7 @@ class Calculator(AdvancedArithmetic):
             return 1
         else:
             total_value=n+1
-            for i in range(2,n//2+1):  #range varies from 2 to (half of that number(round off))-1
+            for i in range(2,n//2+1): 
                 if n%i==0:
                     total_value+=i
         return total_value        
