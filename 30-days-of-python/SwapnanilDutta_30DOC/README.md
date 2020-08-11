@@ -89,3 +89,7 @@ In this problem, the sorting is performed with least number of swaps. Finally th
 ```
 In this problem, the function takes an array of generic elements as a parameter (the exception to this is C++, which takes a vector). Had to do in Java, since Python3 wasn't available.
 ```
+### [**Day 22 :**](/30-days-of-python/SwapnanilDutta_30DOC/D22-Binary-Search-Trees.py) 
+```
+In this problem, the height of a binary search tree is the number of edges between the tree's root and its furthest leaf. You are given a pointer pointing to the root of a binary search tree. The getHeight function returns the height of the binary search tree.
+```
