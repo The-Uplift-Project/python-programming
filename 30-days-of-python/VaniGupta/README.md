@@ -1,11 +1,11 @@
 ### A complete overview of all my codes in 30 days of Python: ### 
-***Total commits merged to far: 139***
+***Total commits merged to far: 165***
 
 A merged commit history can be found at: :man_technologist: :computer:     
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 92***
+***Total codes completed to far: 99***
 
 **Language:** Python :snake:
 
@@ -25,7 +25,9 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Oop excercise.py
   - Oop syntax.py
   
-- Other Ciphers: (8)
+- Other Ciphers: (12)
+  - Beaufort Cipher.py
+  - Atbash Cipher.py
   - Rail Cipher.py (only encryption of RailFence Cipher)
   - Rail fence.py (only decryption of RailFence Cipher)
   - Transposition Cipher.py (only encrypt)
@@ -33,10 +35,15 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Homophonic cipher.py
   - Homophonic cipher2.py
   - Vignere Cipher.py
+  - Vignere Autokey Cipher.py
   - Autokey Cipher.py
+  - Playfair Cipher.py
   
-- Other Python practise codes: (36)
+- Other Python practise codes: (39)
   - Parse Address.py
+  - NLP Calculator.py
+  - Sentiment Analysis.py
+  - Outbreaks.py
   - Pascal Triangle.py
   - Search 2D list.py
   - Square Grid.py
