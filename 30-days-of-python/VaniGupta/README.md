@@ -5,7 +5,7 @@ A merged commit history can be found at: :man_technologist: :computer:
 https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/edit
 
 #### All the codes are: #### 
-***Total codes completed to far: 96***
+***Total codes completed to far: 97***
 
 **Language:** Python :snake:
 
@@ -25,7 +25,8 @@ https://docs.google.com/document/d/1NiWsyjsDiLMqJZ0-R8L5sx7z7UsDyL7wdtgmXeyLzWM/
   - Oop excercise.py
   - Oop syntax.py
   
-- Other Ciphers: (9)
+- Other Ciphers: (10)
+  - Atbash Cipher.py
   - Rail Cipher.py (only encryption of RailFence Cipher)
   - Rail fence.py (only decryption of RailFence Cipher)
   - Transposition Cipher.py (only encrypt)
