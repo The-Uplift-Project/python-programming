@@ -1,7 +1,7 @@
 Hey! I'm **Sayani Ghosh**. I have been adding solutions to *Hackerank* tutorial problems of Python and also the solutions of 30Days Of Code. I am also working on ciphering algorithms.
 ## Count Updates:
 
-Total Codes = 87
+Total Codes = 89 (GUI + 30DOC)
 
 
 Documentation for Added Codes:
@@ -202,3 +202,9 @@ Documentation for Added Codes:
 
 ##### <i class="icon-file"></i> PlayFair Cipher Decrypt
 	In this algorithm we decrypt a given message with "PlayFair Cipher Method" using Python.
+
+##### <i class="icon-file"></i> Vigenere Autokey Cipher Encrypt
+	In this algorithm we decrypt a given message with "Vigenere Autokey Cipher Method" using Python.
+
+##### <i class="icon-file"></i> Vigenere Autokey Cipher Decrypt
+	In this algorithm we decrypt a given message with "Vigenere Autokey Cipher Method" using Python.
