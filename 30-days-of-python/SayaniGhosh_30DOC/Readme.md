@@ -1,7 +1,7 @@
 Hey! I'm **Sayani Ghosh**. I have been adding solutions to *Hackerank* tutorial problems of Python and also the solutions of 30Days Of Code. I am also working on ciphering algorithms.
 ## Count Updates:
 
-Total Codes = 89
+Total Codes = 89 (GUI + 30DOC)
 
 
 Documentation for Added Codes:
