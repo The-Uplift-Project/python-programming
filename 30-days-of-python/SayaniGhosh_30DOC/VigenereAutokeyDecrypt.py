@@ -1,6 +1,6 @@
-# Encrypt Vigenere Cipher Messages
+# Decrypt Autokey Vigenere Cipher Messages
 
-# Encrypting the message using the Vigenere ciphering process
+# Decrypting the message using the Autokey Vigenere ciphering process
 def va_decrypt(strn, k):
     st = ""
     for i in range(len(strn)):
@@ -22,12 +22,12 @@ def key(l):
 t = ""
 while t != "exit":
 
-    print("Enter message to encrypt")
+    print("Enter message to decrypt")
     st = input()
     k = key(len(st))
 
     e_msg = va_decrypt(st, k)
     print(e_msg)
 
-    print("Want to encrypt again? Press 'c'. Or Press 'exit' to end process.")
+    print("Want to decrypt again? Press 'c'. Or Press 'exit' to end process.")
     t = input()
