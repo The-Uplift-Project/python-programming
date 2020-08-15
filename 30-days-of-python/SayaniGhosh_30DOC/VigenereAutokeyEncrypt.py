@@ -1,8 +1,9 @@
-# Encrypt Vigenere Cipher Messages
-# Encrypting the message using the Vigenere ciphering process
+# Encrypt Autokey Vigenere Cipher Messages
+# Encrypting the message using the Autokey Vigenere ciphering process
 def va_encrypt(strn, k):
     st = ""
     for i in range(len(strn)):
+        # generating the respective original message letters by comparing the original message and key in the table
         s = ((ord(strn[i]) + ord(k[i])) % 26) + ord('A')
         st += chr(s)
     return st
@@ -14,6 +15,7 @@ def key(l):
     s = t
     i = 0
     while len(s) != l:
+        # getting the key by appending the original letters 
         s += st[i]
         i += 1
     return s
