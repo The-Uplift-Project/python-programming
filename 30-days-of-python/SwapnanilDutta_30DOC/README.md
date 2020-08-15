@@ -97,3 +97,7 @@ In this problem, the height of a binary search tree is the number of edges betwe
 ```
 In this problem, A level-order traversal, also known as a breadth-first search, visits each level of a tree's nodes from left to right, top to bottom. Given a pointer, pointing to the root of a binary search tree. It prints the level-order traversal of the binary search tree.
 ```
+### [**Day 24 :**](/30-days-of-python/SwapnanilDutta_30DOC/D24-More-Linked-Lists.py) 
+```
+In this problem, each Node in the linked list is traversed and duplicate of each element is removed.
+```
