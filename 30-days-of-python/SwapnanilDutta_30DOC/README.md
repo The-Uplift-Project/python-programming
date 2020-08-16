@@ -93,3 +93,11 @@ In this problem, the function takes an array of generic elements as a parameter 
 ```
 In this problem, the height of a binary search tree is the number of edges between the tree's root and its furthest leaf. You are given a pointer pointing to the root of a binary search tree. The getHeight function returns the height of the binary search tree.
 ```
+### [**Day 23 :**](/30-days-of-python/SwapnanilDutta_30DOC/D23-BST-Level-Order-Traversal.py) 
+```
+In this problem, A level-order traversal, also known as a breadth-first search, visits each level of a tree's nodes from left to right, top to bottom. Given a pointer, pointing to the root of a binary search tree. It prints the level-order traversal of the binary search tree.
+```
+### [**Day 24 :**](/30-days-of-python/SwapnanilDutta_30DOC/D24-More-Linked-Lists.py) 
+```
+In this problem, each Node in the linked list is traversed and duplicate of each element is removed.
+```

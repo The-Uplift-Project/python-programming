@@ -1,7 +1,7 @@
 ﻿Hey! I'm **Sayani Ghosh**. I have been learning GUI and how to use *Tkinter, Pillow, Sqlite3, Requests, Numpy, Matplotlib* in Python.
 ## Count Updates:
 
-Total Codes = 87
+Total Codes = 89 (GUI + 30DOC)
 
 Documentation for Added Codes:
 -------------
