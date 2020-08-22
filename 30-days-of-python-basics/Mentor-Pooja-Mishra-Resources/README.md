@@ -19,15 +19,21 @@
 # July 06    Template integration
 
 # Teamwork(Everyone will be engrossed in this activity)
-#July 07	     Revision time for Django
-#July 08 - August 09     Project work
-#July 08         	     Starting Project
-#July 08-15	     Project Phase-1: Learn and Create Class, Object, UseCase,E-R UML diagrams		for the project
-#July 08 - 09        Learn and Create Use Cases, E-R, UML diagrams
-#July 15-31	     Project Phase-2: Actual Creation of the Website 
+# July 07	     
+              Revision time for Django
+# July 08 - August 09   
+              Project work
+# July 08         	    
+              Starting Project
+#July 08-15	     
+               Project Phase-1: Learn and Create Class, Object, UseCase,E-R UML diagrams		for the project
+#July 08 - 09       
+              Learn and Create Use Cases, E-R, UML diagrams
+#July 15-31	    
+              Project Phase-2: Actual Creation of the Website 
 
 
-August : Project completed
+# August : Project completed
 
  
 
