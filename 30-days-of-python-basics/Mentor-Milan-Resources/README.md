@@ -11,3 +11,9 @@ Concepts Include:
 Other Resources Include:
 
 https://github.com/mkchand02/Python-Resources
+
+Python built-in functions: https://docs.python.org/3/library/functions.html
+
+Python standard library reference: https://docs.python.org/3/library/index.html
+
+For proper visualization: http://www.pythontutor.com/visualize.html#mode=edit
