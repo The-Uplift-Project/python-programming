@@ -26,7 +26,7 @@
 # July 08         	    
               Starting Project
 #July 08-15	     
-               Project Phase-1: Learn and Create Class, Object, UseCase,E-R UML diagrams		for the project
+              Project Phase-1: Learn and Create Class, Object, UseCase,E-R UML diagrams		for the project
 #July 08 - 09       
               Learn and Create Use Cases, E-R, UML diagrams
 #July 15-31	    
